@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanf12122000&label=Profile%20views&color=0e75b6&style=flat" alt="aryanf12122000" /> </p>
 
-- 🔭 I’m currently working on [Ensemble Learning](https://aryanf12122000-breast-cancer-diagnosis-with-ml-myapp-r4wikm.streamlit.app/)
+- 🔭 I’m currently working on LLM's!!
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryanf12122000](https://github.com/aryanf12122000)
 
